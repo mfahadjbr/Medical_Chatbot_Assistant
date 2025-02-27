@@ -1,7 +1,7 @@
 # Medical ChatBot Assistant
 
 ## Project Image
-![Agentic AI CustomGPT](Medical_chatbot_Assistant.png)
+![Agentic AI CustomGPT](1.png)
 
 ## Overview
 The **Medical ChatBot Assistant** is a Streamlit-based application that allows users to upload medical PDF documents and ask questions about their content. The chatbot uses Google's Gemini AI and FAISS for retrieval-augmented generation (RAG), enabling accurate and context-aware responses.
